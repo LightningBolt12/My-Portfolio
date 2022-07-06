@@ -1,0 +1,15 @@
+body{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+.line{
+    width: 80px;
+    height:8px;
+    margin:8px auto;
+    background-color: black;
+}
+
+#apps{
+    background: linear-gradient(red 0%,orange 100%);
+}
